@@ -1,0 +1,64 @@
+/* 
+
+body{
+  background-color: steelblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.content{
+  background-color: teal;
+  width: 250px;
+  height: 200px;
+  border-radius: 15px;
+  padding: 50px;
+  box-shadow: 10px 10px 42px 0px black;  
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.scores{
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: palevioletred;
+  height: 10vh;
+  border: 1px solid white;
+  border-radius: 15px;
+  
+}
+
+.ans{
+  display: flex;
+  flex-direction: column;
+}
+
+.button{
+  background-color: yellow;
+  border-radius: 50%;
+  box-shadow: 2px 2px 2px 0px black;
+}
+
+.questSect{
+  color: peachpuff;
+  width: 100%;
+}
+
+.sect{
+  color: red;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin: 14px;
+}
+
+.choice{
+  margin: 5px;
+  border: 1px solid grey;
+  text-align: center;
+}
+
+
+ */

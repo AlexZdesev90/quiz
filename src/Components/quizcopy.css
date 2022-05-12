@@ -1,0 +1,42 @@
+body{
+  background-color: azure;
+}
+
+.content{
+  background-color: cadetblue;
+  border-radius: 26px;
+  margin: 30px auto;
+  padding: 3rem;
+  width: 500px;
+  min-height: 300px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  box-shadow: 10px 10px 30px 0px black;
+ 
+}
+
+.question{
+  color: azure;
+  margin-bottom: 3rem;
+}
+
+.answ{
+  width: 200px;
+  margin-top: 1rem;
+  border-bottom: 1px solid azure;
+}
+
+.answ:hover{
+  color:azure;
+}
+
+.reset{
+  margin-top: 2rem;
+  color: black;
+}
+
+.reset:hover{
+  color: red;
+}
+
